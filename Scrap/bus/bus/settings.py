@@ -12,4 +12,3 @@ BOT_VERSION = '1.0'
 SPIDER_MODULES = ['bus.spiders']
 NEWSPIDER_MODULE = 'bus.spiders'
 USER_AGENT = '%s/%s' % (BOT_NAME, BOT_VERSION)
-
